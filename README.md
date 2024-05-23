@@ -28,4 +28,4 @@ Here are some of my noteworthy projects:
 ## Get in Touch
 
 - **LinkedIn**: [Syed Safi Ullah Shah](https://www.linkedin.com/in/safi50/)
-- **Email**: [ss.safiahsh@gmail.com](ss.safiahsh@gmail.com)
+- **Email**: [ss.safishah@gmail.com](ss.safishah@gmail.com)
