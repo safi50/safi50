@@ -1,9 +1,6 @@
 # Welcome to My GitHub Profile
 
-
-![Profile Banner](https://github.com/safi50/safi50/assets/63853856/acd83a1f-5317-4e42-9b14-4298a3c94681)
-
-
+<img width="1500" alt="bannner" src="https://github.com/safi50/safi50/assets/63853856/91bf3d94-e58d-406b-b3f3-1c45f19b3118">
 
 ## About Me
 
@@ -32,8 +29,3 @@ Here are some of my noteworthy projects:
 
 - **LinkedIn**: [Syed Safi Ullah Shah](https://www.linkedin.com/in/safi50/)
 - **Email**: [ss.safiahsh@gmail.com](ss.safiahsh@gmail.com)
-
-## GitHub Stats
-
-![Safi's GitHub stats](https://github-readme-stats.vercel.app/api?username=safi50&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safi50&layout=compact&theme=radical)
