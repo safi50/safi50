@@ -18,13 +18,6 @@ Hi, I'm **Syed Safi Ullah Shah**! I'm a passionate software developer with exper
 
 ![GitHub Contributions](https://ghchart.rshah.org/safi50)
 
-## My Projects
-
-Here are some of my noteworthy projects:
-
-- **[Social Sensing for X/Twitter](https://github.com/safi50/social-sensing-frontend)**: This project is designed to receive, analyze, and visualize Twitter/X data via their API and understand global trends and news. It can also analyze and report individual user behaviour and activity patterns and trends. Certain keywords, hashtags, and users can be analyzed, and custom queries can be implemented on the data to extract meaningful insights. 
-- **[Automated Glaucoma Detection](https://github.com/safi50/Glaucoma-Detection)**: In this project, I use Deep Learning techniques to automate glaucoma detection using retinal fundus images.
-
 ## Get in Touch
 
 - **LinkedIn**: [Syed Safi Ullah Shah](https://www.linkedin.com/in/safi50/)
