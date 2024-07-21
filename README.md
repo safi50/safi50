@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hi, I'm **Syed Safi Ullah Shah**! I'm a passionate software developer with experience in diverse technologies. I love coding, learning new things, and contributing to open-source projects. I  have over 1.5 years of experience as a MERN Stack Developer. However, I am also comfortable working in an AI domain and possess experience in Deep Learning and Machine Learning obtained via different Projects. 
+Hi, I'm **Syed Safi Ullah Shah!** I'm a passionate software developer with extensive experience in diverse technologies, including over 1.5 years as a Full-Stack Developer. I thrive on coding, learning new things, and contributing to open-source projects. My passion for data and AI has led me to gain substantial experience in Deep Learning and Machine Learning through various projects. My career ambition is to become a highly accomplished Data Scientist with a solid foundation in Machine Learning and Data Analysis. I aim to leverage my analytical skills and technical expertise to deliver innovative, data-driven solutions.
 
 ## Technologies I Work With
 
