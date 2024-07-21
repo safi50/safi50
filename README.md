@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-<img width="1500" alt="bannner" src="https://github.com/safi50/safi50/assets/63853856/91bf3d94-e58d-406b-b3f3-1c45f19b3118">
+![banner](https://github.com/user-attachments/assets/8f571a5f-c4a7-4833-9d34-8e4ec9f15f3a)
 
 ## About Me
 
