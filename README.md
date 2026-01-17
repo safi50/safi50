@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hi, I'm **Syed Safi Ullah Shah!** I'm a passionate software developer with extensive experience in diverse technologies, including over 1.5 years as a Full-Stack Developer. I thrive on coding, learning new things, and contributing to open-source projects. My passion for data and AI has led me to gain substantial experience in Deep Learning and Machine Learning through various projects. My career ambition is to become a highly accomplished Data Scientist with a solid foundation in Machine Learning and Data Analysis. I aim to leverage my analytical skills and technical expertise to deliver innovative, data-driven solutions.
+Versatile Computer Science graduate passionate about emerging technologies and turning ideas into practical solutions. Experienced in **Computer Vision, Generative AI, and Full-Stack Software Development**, with a focus on building modern data-driven platforms. I bring a diverse skill set and hands-on experience, combining research expertise with rapid experimentation and prototyping. An effective communicator and a team player with strong leadership skills, committed to driving innovation and delivering sustainable impact.
 
 ## Technologies I Work With
 
