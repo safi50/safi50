@@ -18,11 +18,7 @@ Versatile Computer Science graduate passionate about emerging technologies and t
 2. [Social Sensing Tool for Twitter/X](https://github.com/safi50/social-sensing-frontend)
 3. [US Census Income Data Classification](https://github.com/safi50/Census-Income-Classification)
 
-## Contributions
-
-![GitHub Contributions](https://ghchart.rshah.org/safi50)
-
 ## Get in Touch
 
-- **LinkedIn**: [Syed Safi Ullah Shah](https://www.linkedin.com/in/safi50/)
+- **LinkedIn**: [Safi Shah](https://www.linkedin.com/in/safi50/)
 - **Email**: [ss.safishah@gmail.com](ss.safishah@gmail.com)
