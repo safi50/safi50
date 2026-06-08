@@ -1,7 +1,5 @@
 # Hello World!
 
-# ![banner](https://github.com/user-attachments/assets/8f571a5f-c4a7-4833-9d34-8e4ec9f15f3a)
-
 ## About Me
 
 CS Grad ° Data Engineer 
